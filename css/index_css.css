@@ -1,0 +1,30 @@
+body{
+padding: 0px;
+margin: 0px;
+background-image: url("http://www.amdyas.com/images/backgroundGradient.jpg");
+
+}
+
+#loginSection{
+color: white;
+width:500px;
+height: 200px;
+padding: 50px;
+margin: 150px auto 0px auto;
+background-color: #00539E;
+text-align: center;
+border: 5px solid #ddd;
+}
+
+#loginSection h1{
+font-family: cursive;
+color: #F05032;
+}
+
+#butt{
+font-size: 20px;
+font-family: fantasy;
+background-color: #C1D72E;
+color: #fff;
+border-radius: 15px;
+}

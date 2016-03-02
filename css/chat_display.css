@@ -1,0 +1,77 @@
+body{
+padding: 0px;
+margin: 0px;
+background-image: url("http://www.amdyas.com/images/backgroundGradient.jpg");
+
+}
+
+#showMessages{
+width: 600px;
+height: 300px;
+background-color: rgba(0,0,0,.5);
+overflow: scroll;
+text-align: left;
+padding: 10px;
+color: #C6E2FF;
+border-top: 10px solid #6DC066;
+border-bottom: 10px solid #F79727;
+border-left: 10px solid #FF4252;
+border-right: 10px solid #6495ed;
+border-radius: 10px;
+}
+
+.showLeft{
+float: right;
+background: #FF7373;
+padding: 5px;
+color: #fff;
+border-radius: 5px;
+}
+
+.showRight{
+float: left;
+background: #B3E7E2;
+color: black;
+border-radius: 5px;
+padding: 5px 5px 5px 5px;
+
+}
+
+
+#chatDisplay{
+width: 630px;
+height: 470px;
+padding: 20px 150px 20px 150px;
+border: 5px solid #ccc;
+margin: 50px auto 0px auto;
+border-radius: 5px;
+}
+
+.dataTime{
+font-size: 10px;
+}
+
+#sendButton{
+font-size: 15px;
+width: 100px;
+font-family: fantasy;
+background-color: #C1D72E;
+color: #fff;
+border-radius: 15px;
+}
+#chatDisplay h1{
+text-align: center;
+color: #FFD700;
+font-family: fantasy;
+}
+
+#chatDisplay input{
+padding: 5px;
+margin: 15px 15px 15px 0px;
+width:400px;
+border-radius: 5px;
+color: #4C5D6A;
+font-family:sans-serif;
+font-size: 13px;
+background-color: rgba(255,255,255,.5);
+}
